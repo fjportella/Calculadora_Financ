@@ -7,7 +7,7 @@ package Calculadora_Financ;
 
 /**
  *
- * @author Fernando
+ * @author Fernando Portella
  */
 public class Principal extends javax.swing.JFrame {
 
