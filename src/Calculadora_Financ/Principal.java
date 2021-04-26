@@ -8,6 +8,11 @@ package Calculadora_Financ;
 /**
  *
  * @author Fernando Portella
+ * Descrição: 1) Calculadora Financeira para efetuar os Cálculos:
+ *            Valor Presente, Valor Futuro, Tempo e Taxa,
+ *            podendo o usuário escolher entre Juros Simples e Compostos
+ * 
+ *            2) Cálculo Financiamento SAC e PRICE
  */
 public class Principal extends javax.swing.JFrame {
 
